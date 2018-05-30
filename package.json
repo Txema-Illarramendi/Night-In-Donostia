@@ -16,7 +16,6 @@
         "brackets": ">=1.3.0"
     },
     "theme": {
-        "file": "Night-In-Donostia.css",
         "file": "night_in_donostia.css",
         "dark": true
     }
