@@ -17,6 +17,7 @@
     },
     "theme": {
         "file": "Night-In-Donostia.css",
+        "file": "night_in_donostia.css",
         "dark": true
     }
 }
