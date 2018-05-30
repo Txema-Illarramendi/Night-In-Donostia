@@ -2,6 +2,7 @@
     "title": "Night-In-Donostia",
     "name": "night-in-donostia",
     "description": "A dark theme (based on Nature) that makes your code colorful on black.",
+    "version": "1.0.0",
     "keywords": ["dark", "theme", "orange", "black", "blue", "violet"],
     "homepage": "https://github.com/Txema-Illarramendi/Night-In-Donostia.git",
     "license": "MIT",
