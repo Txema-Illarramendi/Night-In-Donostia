@@ -6,21 +6,21 @@ Theme for Brackets text editor.
 
 ### HTML
 
-<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/tree/master/Screenshots/html.png">
+<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/blob/master/Screenshots/html.png">
 
 ### CSS
 
-<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/tree/master/Screenshots/css.png">
-<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/tree/master/Screenshots/css2.png">
+<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/blob/master/Screenshots/css.png">
+<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/blob/master/Screenshots/css2.png">
 
 ### SCSS
 
-<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/tree/master/Screenshots/scss.png">
+<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/blob/master/Screenshots/scss.png">
 
 ### JavaScript
 
-<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/tree/master/Screenshots/js.png">
+<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/blob/master/Screenshots/js.png">
 
 ### PHP
 
-<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/tree/master/Screenshots/php.png">
+<img src="https://github.com/Txema-Illarramendi/Night-In-Donostia/blob/master/Screenshots/php.png">
