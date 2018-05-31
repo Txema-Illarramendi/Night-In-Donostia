@@ -10,20 +10,20 @@
 .cm-atom		{ color: #ff8500; }
 .cm-link		{ color: #ff8500; }
 .cm-number		{ color: #29b12f; }
-.cm-string		{ color: #ff8500; }
-.cm-string-2    { color: #ff8500; }
-.cm-variable-2	{ color: #9b09b1; }
+.cm-string		{ color: #e7d6ad; font-style: italic;}
+.cm-string-2    { color: #ff954e; }
+.cm-variable-2	{ color: #88b54e; }
 .cm-variable-3	{ color: #92c889; }
 
 .cm-bracket		{ color: #9E9E9E; }
-.cm-tag			{ color: #44769a; }
+.cm-tag			{ color: #44769a; font-weight: 800;}
 
 .cm-attribute	{ color: #9b09b1; }
-.cm-property	{ color: #d4d4d4; } /* property after string */
+.cm-property	{ color: #d4d4d4; }
 
-.cm-comment		{ color: #5C5C5C; font-weight: 800;}
-.cm-error		{ color: #ff8500; font-style: italic; font-weight: 800}
-.cm-keyword		{ color: #9b09b1; font-weight: 800;}
+.cm-comment		{ color: #9E9E9E; }
+.cm-error		{ color: #ff8500; font-style: italic;}
+.cm-keyword		{ color: #9b09b1; }
 .cm-variable	{ color: #38b9ff; }
 
 
@@ -36,7 +36,7 @@
 }
 
 .CodeMirror-cursor {
-	border-left: 3px solid #fff;
+	border-left: 2px solid #fff;
 }
 
 .CodeMirror-overwrite .CodeMirror-cursor {
