@@ -1,4 +1,4 @@
-# Night-In-Donostia
+# Night in Donostia
 
 Theme for Brackets text editor.
 
