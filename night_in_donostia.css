@@ -72,13 +72,17 @@
 
 /* Matching Brackets and Tags */
 .CodeMirror-searching,
-.CodeMirror-matchingtag,
 .CodeMirror-matchingbracket {
     color: #d4d4d4 !important;
     box-shadow: 0 0 1em #ff3030;
     border-radius:0.3em;
     border:1pt solid #ff8500;
     background-color: #000;
+}
+
+.CodeMirror-matchingtag {
+    color: #29b12f;
+    background: rgb(29, 29, 29);
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-nonmatchingbracket {
